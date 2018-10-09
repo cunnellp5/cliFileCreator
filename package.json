@@ -1,0 +1,26 @@
+{
+  "name": "clifilecreator",
+  "version": "1.0.0",
+  "description": "cli file creator",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "figlet": "^1.2.0",
+    "inquirer": "^6.2.0",
+    "shelljs": "^0.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cunnellp5/cliFileCreator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cunnellp5/cliFileCreator/issues"
+  },
+  "homepage": "https://github.com/cunnellp5/cliFileCreator#readme"
+}
