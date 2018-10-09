@@ -19,5 +19,12 @@ success = (path) => {
   );
 };
 
+warn = () => {
+  console.log(
+    chalk.black.bgRed.bold(`uh oh`)
+  );
+}
+
+
 module.exports.init = init;
 module.exports.success = success;
